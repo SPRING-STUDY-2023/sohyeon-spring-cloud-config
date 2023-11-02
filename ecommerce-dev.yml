@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000 # 60 * 60 * 24 * 1000 = 1day
-  secret: devtestSecretKey20230327testSecretKey20230327testSecretKey20230327AgEgHeaEGragkajfAEGRGAAEERAEGEAKeyFallingInAndOut
+  secret: dev53testSecretKey20230327testSecretKey20230327testSecretKey20230327AgEgHeaEGragkajfAEGRGAAEERAEGEAKeyFallingInAndOut
 
 gateway:
   ip: 222.112.153.210
