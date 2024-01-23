@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: changedTestSecretKey20230327testSecretKey20230327testSecretKey20230327AgEgHeaEGragkajfAEGRGAAEERAEGEAKeyFallingInAndOut
+
+gateway:
+  ip: 127.0.0.1
